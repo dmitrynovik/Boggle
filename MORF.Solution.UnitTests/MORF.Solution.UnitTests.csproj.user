@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartProgram>C:\Program Files %28x86%29\NUnit 2.6.2\bin\nunit-agent.exe</StartProgram>
+    <StartWorkingDirectory>C:\Users\Dmitry\Documents\visual studio 2012\Projects\MORF\MORF.Solution.UnitTests\bin\Debug</StartWorkingDirectory>
+    <StartArguments>MORF.Solution.UnitTests.dll</StartArguments>
+  </PropertyGroup>
+</Project>
